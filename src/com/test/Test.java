@@ -9,6 +9,8 @@ public class Test {
 		// TODO Auto-generated method stub
 		int i=10;
 		
+		
+		
 System.out.println(i);
 	}
 
